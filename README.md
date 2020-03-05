@@ -18,7 +18,7 @@ First things First, visit [Binance Futures](https://www.binance.com/en/register?
 
 **Grab the Latest Release here:**
 
-https://github.com/CryptoGnome/Bybit-Bot/releases
+https://github.com/CryptoGnome/LickHunterPRO/releases
 
 **Licence Keys:**
 
