@@ -1,4 +1,5 @@
-Liquidation Hunter counter trades liquidations alogn with VWAP offsets on all trading pairs on Binance. You can run multiple trading pairs on the same exhange with more than one bot ant the base currency is USDT.
+Liquidation Hunter counter trades liquidations along with VWAP offsets on all trading pairs on Binance. You can run multiple trading pairs on the same exchange with more than one bot ant the base currency is USDT.
+
 
 ## Current Supported Exchanges
 [Binance Futures](https://www.binance.com/en/register?ref=LMFD8MJ5)
