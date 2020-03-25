@@ -4,6 +4,7 @@ Liquidation Hunter counter trades liquidations along with VWAP offsets on all tr
 
 ## Current Supported Exchanges
 [Binance Futures](https://www.binance.com/en/register?ref=LMFD8MJ5)
+
 [Bybit](https://www.bybit.com/en?affiliate_id=767&group_id=1592&group_type=1)
 ## Planned Exchanges
 
