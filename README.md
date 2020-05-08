@@ -5,7 +5,7 @@ Liquidation Hunter counter trades liquidations along with VWAP offsets on all tr
 
 <br>
 
-![IMAGE ALT TEXT HERE](https://i.imgur.com/CUDhY0l.png)
+![IMAGE ALT TEXT HERE](https://i.imgur.com/Z2VSjwc.png)
 
 
 
