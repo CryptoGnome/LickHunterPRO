@@ -25,7 +25,7 @@ https://github.com/ccxt/ccxt
 ------------------
 
 # Read the wiki here to get started:
-## [WiKi](https://github.com/CryptoGnome/LickHunterPRO/wiki)
+## [WiKi](https://cryptognome.gitbook.io/lick-hunter/)
 
 
 
