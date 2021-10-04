@@ -14,7 +14,7 @@ Liquidation Hunter counter trades liquidations along with VWAP offsets on all tr
 
 [Bybit](https://www.bybit.com/en?affiliate_id=767&group_id=1592&group_type=1)
 
-
+[Bybit- USDT VERSION HERE](https://github.com/CryptoGnome/Bybit-Futures-Bot)
 
 ## Made with <3 with @ccxt
 https://github.com/ccxt/ccxt
