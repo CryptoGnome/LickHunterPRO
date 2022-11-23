@@ -7,6 +7,9 @@ Liquidation Hunter counter trades liquidations along with VWAP offsets on all tr
 
 ![IMAGE ALT TEXT HERE](https://i.imgur.com/Z2VSjwc.png)
 
+<br>
+#### NEW VERISON v4 for Bybit Here:
+https://github.com/CryptoGnome/Bybit-Lick-Hunter-v4
 
 
 ## Current Supported Exchanges
